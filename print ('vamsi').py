@@ -1,1 +1,1 @@
-print ('vamsi')
+print ('vamsi komati')
